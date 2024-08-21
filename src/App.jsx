@@ -1,17 +1,14 @@
 import './App.scss'
-import Header from './components/Header/Header'
-import Footer from './components/Footer/Footer'
+import Layout from './components/Layout/Layout'
 
 
 function App() {
   return (
     <>
       <div>
-        <Header />
+        <Layout />
       </div>
-      <div>
-        <Footer />
-      </div>
+  
     </>
   )
 }

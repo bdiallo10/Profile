@@ -1,5 +1,5 @@
 import './Footer.scss'
-import ProfilePic from '../../assets/images/Profile.jpeg'
+import ProfilePic from '../../assets/images/Profile.jpg'
 import {Container, Row, Col, Stack, Image, Nav, NavLink} from "react-bootstrap"
 
 const Footer = () => {
